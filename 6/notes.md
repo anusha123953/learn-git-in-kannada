@@ -70,10 +70,8 @@ To open one: push your branch to your fork, then go to the original repository o
 2. Make a small change on a new branch, push it to your fork, and open a Pull Request back to the original repository, even a typo fix in a README is a perfectly valid first PR
 3. **Build in Public**: Post a screenshot of your open Pull Request on LinkedIn/X with #engineeringinkannada and tag me so I can see it
 
-### **YouTube Reference**
+### YouTube Reference
 
-Watch the following video from my channel:
-
-- [Watch Part 6 on YouTube](#)
+- [Watch Part 6 on YouTube](https://youtu.be/pvsnfwk3Ids)
 
 Make sure to subscribe to the channel for more tutorials and updates!
